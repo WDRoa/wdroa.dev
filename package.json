@@ -1,0 +1,12 @@
+{
+  "name": "wdroa.dev",
+  "private": true,
+  "version": "1.0.0",  
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["HTML5", "TailwindCSS"], 
+  "author": "Willie David Roa Hidalgo <willieroa01@gmail.com>",
+  "license": "UNLICENSED"
+}
