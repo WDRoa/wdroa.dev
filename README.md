@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.linkToPortfolio" target="_blank">
+    <a href="https://wdroa.github.io/wdroa.dev/" target="_blank">
         <img src="./assets/favicon.svg" alt="Logo" width="100" height="100">
         <br/>Portafolio Profesional        
     </a>
@@ -11,7 +11,7 @@
 
 <p align="center">
     < --Vista Previa-- > <br/>
-    <a href="https://www.linkToPortfolio" target="_blank">
+    <a href="https://wdroa.github.io/wdroa.dev/" target="_blank">
         <img src="./assets/preview.png" alt="Preview">
     </a> 
 </p>
